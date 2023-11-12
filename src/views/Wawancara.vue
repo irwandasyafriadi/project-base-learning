@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
   <div class=" text-gray-600 dark:text-gray-300" id="reviews">
     <Container >
       <div class="mb-20 space-y-4 px-6 md:px-0">
@@ -71,4 +71,4 @@
       </div>
     </Container>
   </div>
-</template>
+</template> -->
